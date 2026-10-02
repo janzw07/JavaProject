@@ -1,5 +1,7 @@
 //TODO: dodanie klas
 
+//ja dodam adder, s35549 doda substractor
+
 public class Main {
     public static void main(String[] args) {
         Adder adder = new Adder();
